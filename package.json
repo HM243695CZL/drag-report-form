@@ -7,7 +7,16 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "babel-plugin-transform-flow-comments": "^6.22.0",
     "core-js": "^3.6.5",
+    "element-resize-detector": "^1.1.10",
+    "element-ui": "^2.13.2",
+    "interactjs": "^1.5.3",
+    "normalize.css": "^8.0.1",
+    "sass": "^1.26.10",
+    "sass-loader": "^9.0.2",
+    "scss": "^0.2.4",
+    "uuid": "^8.3.0",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
     "vuex": "^3.4.0"
